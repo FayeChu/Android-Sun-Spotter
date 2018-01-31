@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bottomLine">#FF0000</color>
+    <color name="checkImage">#FEE40A</color>
+    <color name="line_divider">#E5E5E5</color>
+
+</resources>

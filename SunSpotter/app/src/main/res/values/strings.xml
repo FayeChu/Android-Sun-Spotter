@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sun Spotter</string>
+    <string name="OPEN_WEATHER_MAP_API_KEY">809285ce23122d5d0b7b1563530569e9</string>
+</resources>
